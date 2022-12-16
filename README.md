@@ -15,8 +15,7 @@ O Projeto foi desenvolvido com as Tecnologia e voltadas nas seguintes Tarefas:
 - [x] Criação do HTML
 - [x] Criação do CSS
 - [x] Criação do JAVASCRIPT
-=======
->>>>>>> 0d4690aafa6c4984bb0f32e9b7e9195ad32dfcf8
+
 
 
  🧑‍💻 Technologies e Tools I use:
@@ -57,5 +56,4 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
  ">HERE!</a>
 
 
-=======
->>>>>>> 0d4690aafa6c4984bb0f32e9b7e9195ad32dfcf8
+
