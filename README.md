@@ -3,7 +3,6 @@ Frontend ecommerce website to display items for sale
 
 this website is made using forntend frameworks and libraries only!
 
-<<<<<<< HEAD
 ## 🎨 Layout
 
 ![](gif.jpg)
@@ -15,8 +14,7 @@ O Projeto foi desenvolvido com as Tecnologia e voltadas nas seguintes Tarefas:
 - [x] Criação do HTML
 - [x] Criação do CSS
 - [x] Criação do JAVASCRIPT
-=======
->>>>>>> 0d4690aafa6c4984bb0f32e9b7e9195ad32dfcf8
+
 
 
  🧑‍💻 Technologies e Tools I use:
@@ -26,7 +24,7 @@ O Projeto foi desenvolvido com as Tecnologia e voltadas nas seguintes Tarefas:
  
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-<<<<<<< HEAD
+
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 
 </div>
@@ -57,5 +55,3 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
  ">HERE!</a>
 
 
-=======
->>>>>>> 0d4690aafa6c4984bb0f32e9b7e9195ad32dfcf8
